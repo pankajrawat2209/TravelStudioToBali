@@ -2,7 +2,7 @@
 
 Below is the source code and preview of website created of booking page for travelling to Bali ( A Historic place in Indonesia with Tropical paradise with beaches , culture and spiritual retreats )
 
-![Websie preview](https://github.com/pankajrawat2209/TravelStudioToBali/Screenshot 2025-07-16 072518.png)
+![Website Preview](https://github.com/pankajrawat2209/TravelStudioToBali/blob/main/Screenshot%202025-07-16%20072518.png?raw=true)
 
 ```
 <!DOCTYPE html>
