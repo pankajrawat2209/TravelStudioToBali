@@ -1,9 +1,7 @@
 # TravelStudioToBali
-This is booking page for travelling to Bali and required of essential information for booking purpose 
 
+Below is the source code provided of booking page for travelling to Bali ( A Historic place in Indonesia with Tropical paradise with beaches , culture and spiritual retreats )
 
-
-This is the source code provided below  of booking page for travelling to Bali ( A Historic place in Indonesia with Tropical paradise with beaches , culture and spiritual retreats )
 
 ```
 <!DOCTYPE html>
